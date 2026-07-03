@@ -15,7 +15,7 @@
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://weatherkite.online//weather-kite-🪁-—-live-weather,-radar-&-forecast</loc>
+        <loc>https://weatherkite.online//weather-kite-🪁-—-live-weather,-radar-&amp;-forecast</loc>
         <lastmod>2026-07-03</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
@@ -45,7 +45,7 @@
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://weatherkite.online//page/live-radar-&-maps</loc>
+        <loc>https://weatherkite.online//page/live-radar-&amp;-maps</loc>
         <lastmod>2026-07-03</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
